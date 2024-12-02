@@ -1,0 +1,148 @@
+,Municipio,Provincia,Comunidad Autónoma,Habitantes (2022),Carril Bici,Precios alquiler,Distancia a Madrid (km),"Tiempo medio 
+de viaje a Madrid 
+en coche",Tiempo medio de viaje a Madrid en tren o autobús,Distancia a Barcelona (km),"Tiempo medio 
+de viaje a Barcelona 
+en coche",Tiempo medio de viaje a Barcelona en tren o autobús,Aeropuerto Internacional más cercano,"Número de
+conexiones del
+aeropuerto internacional
+más cercano",Distancia al aeropuerto internacional más cercano (km),Temperatura máxima media (ºC),Temperatura mínima media (ºC),Número de visitantes internacionales al año,Precio medio vivienda (EUR/m2),Patrimonio de la Humanidad,% días calidad del aire Buena,% días calidad del aire Razonablemente Buena,% días calidad del aire Regular,% días calidad del aire Desfavorable,% días calidad del aire Muy Desfavorable,% días calidad del aire Extremadamente Desfavorable,Ponderación calidad del aire,"Horas de Sol medias
+anuales"
+0,A Coruña,A Coruña,Galicia,244700.0,"20,4","9,1",593.0,5:37,4 h 32 min,1084.0,11 h,12 h,A Coruña,9.0,"11,6",24.0,7.0,,2.300,Sí,20,73,4,3,0,0,410,2.453
+1,Albacete,Albacete,Castilla-La Mancha,172357.0,"24,4","7,1",260.0,2:34,1 h 37 min,545.0,5 h 22 min,5 h 25 min,"Alacant-Elx 
+Miguel Hernández",119.0,169,33.0,0.0,,1.417,No,3,72,16,9,0,0,369,3.282
+2,Alcalá de Guadaíra,Sevilla,Andalucía,75917.0,N/D,"6,6",531.0,5:09,3 h 29 min,995.0,9 h 50 min,12 h ,Sevilla,70.0,"21,1",35.0,5.0,,N/D,No,14,72,11,3,0,0,397,3.526
+3,Alcalá de Henares,Madrid,Madrid,196888.0,28,"9,9",40.0,0:39,42 min,586.0,5 h 30 min,3 h 20 min,"Adolfo Suárez 
+Madrid-Barajas",174.0,21,33.0,1.0,,N/D,Sí,17,68,11,3,0,0,396,2.691
+4,Alcobendas,Madrid,Madrid,117041.0,"53,8",12,24.0,0:25,22 min,613.0,5 h 47 min,3 h 49 min,"Adolfo Suárez 
+Madrid-Barajas",174.0,"9,1",33.0,0.0,,N/D,No,22,67,8,3,0,0,408,2.691
+5,Alcorcón,Madrid,Madrid,170296.0,"17,6","10,8",15.0,0:34,20 min,631.0,6 h 3 min,3 h 9 min,"Adolfo Suárez 
+Madrid-Barajas",174.0,"29,5",33.0,0.0,,N/D,No,12,76,10,2,0,0,398,2.691
+6,Algeciras,Cádiz,Andalucía,122368.0,N/D,"7,1",662.0,6:20,5 h 40 min,1106.0,11 h ,14 h,Jerez,16.0,107,28.0,11.0,,N/D,No,13,80,4,2,0,0,401,3.316
+7,Alicante,Alicante,Comunidad Valenciana,338577.0,"39,3","9,4",427.0,4:02,2 h 25 min,525.0,5 h 18 min,8 h,"Alacant-Elx 
+Miguel Hernández",119.0,"11,1",31.0,7.0,841152.0,1.705,No,32,62,5,0,0,0,423,3.397
+8,Almería,Almería,Andalucía,199237.0,"40,2","7,6",551.0,5:15,10 h 5 min,803.0,7 h 55 min,12 h,Almería,19.0,"8,6",30.0,8.0,,1.302,No,5,81,10,4,0,0,387,3.305
+9,Arona,Santa Cruz de Tenerife,Santa Cruz de Tenerife,82982.0,N/D,"13,7",2029.0,42:00,,2504.0,46 h,,Tenerife Sur,102.0,"18,9",25.0,13.0,,N/D,No,N/D,N/D,N/D,N/D,N/D,N/D,N/D,3.098
+10,Avilés,Asturias,Asturias,75877.0,"9,9","6,8",481.0,4:41,5 h,893.0,8 h 49 min,13 h,Asturias,24.0,"14,5",22.0,7.0,,N/D,No,6,84,7,4,0,0,395,1.962
+11,Badajoz,Badajoz,Extremadura,150146.0,N/D,"6,7",404.0,3:44,4 h 28 min,1021.0,9 h 53 min,16 h,Sevilla,70.0,217,35.0,3.0,,1.374,No,33,59,6,2,0,0,423,3.224
+12,Badalona,Barcelona,Cataluña,223506.0,"0,9","12,8",633.0,6:21,3 h 2 min,10.0,23 min,21 min,"Josep Tarradellas
+Barcelona-El Prat",170.0,"24,7",29.0,5.0,,N/D,No,33,63,4,0,0,0,429,2.453
+13,Barakaldo,Bizkaia,País Vasco,100535.0,16,"11,3",408.0,4:03,4 h 54 min,612.0,5 h 51 min,9 h 40 min,Bilbao,46.0,16,24.0,6.0,,N/D,No,44,43,7,5,0,0,423,1.694
+14,Barcelona,Barcelona,Cataluña,1636193.0,"14,1","18,4",623.0,6:15,2 h 45 min,0.0,0,0,"Josep Tarradellas
+Barcelona-El Prat",170.0,"12,6",28.0,5.0,8200000.0,4.063,Sí,31,67,2,0,0,0,429,2.453
+15,Bilbao,Bizkaia,País Vasco,344127.0,"9,8","13,3",401.0,3:59,4 h 28 min,605.0,5 h 44 min,10 h 10 min,Bilbao,46.0,"12,1",24.0,5.0,1100000.0,3.174,No,55,36,5,4,0,0,442,1.694
+16,Burgos,Burgos,Castilla y León,173483.0,"34,6","7,9",248.0,2:37,2 h 24 min,602.0,5 h 46 min,4 h 48 min,Vitoria,3.0,122,27.0,-1.0,,1.642,Sí,80,17,2,1,0,0,476,2.751
+17,Cáceres,Cáceres,Extremadura,95456.0,"53,4","6,3",297.0,2:50,3 h 3 min,914.0,8 h 51 min,11 h 29 min,Sevilla,70.0,269,34.0,1.0,,1.220,Sí,23,63,11,3,0,0,406,3.365
+18,Cádiz,Cádiz,Andalucía,113066.0,N/D,"10,5",647.0,5:59,4 h 32 min,1109.0,10 h 49 min,12 h ,Jerez,16.0,"42,3",29.0,8.0,,2.548,No,10,77,10,3,0,0,394,3.316
+19,Cartagena,Murcia,Murcia,216961.0,"20,7","6,7",453.0,4:17,4 h 37 min,626.0,6 h 9 min,9 h 30 min,Región de Murcia,15.0,"32,1",29.0,6.0,,N/D,No,8,80,9,4,0,0,395,3.348
+20,Castelló de la Plana,Castellón,Comunidad Valenciana,171857.0,50,"7,1",460.0,4:17,3 h 29 min,278.0,2 h 56 min,2 h 20 min,Castelló,11.0,"33,1",28.0,7.0,,1.214,No,41,58,2,0,0,0,443,3.321
+21,Ceuta,Ceuta,Ceuta,83117.0,"1,2",N/D,704.0,8:34,13 h,1171.0,13 h 20 min,18 h,Jerez,16.0,149,27.0,11.0,,2.204,No,12,75,12,0,0,0,396,N/D
+22,Chiclana de la Frontera,Cádiz,Andalucía,87493.0,"12,9","8,6",656.0,6:07,5 h 17 min,1118.0,10 h 58 min,17 h,Jerez,16.0,"52,6",29.0,8.0,479477.0,N/D,No,N/D,N/D,N/D,N/D,N/D,N/D,N/D,3.316
+23,Córdoba,Córdoba,Andalucía,319515.0,"41,6",7,396.0,3:52,1 h 52 min,860.0,8 h 23 min,4 h 52 min,Sevilla,70.0,137,36.0,4.0,929781.0,1.441,Sí,24,59,8,9,1,0,399,3.316
+24,Cornellà de Llobregat,Barcelona,Cataluña,89039.0,"47,2","13,7",616.0,6:00,2 h 53 min,17.0,27 min,10 min,"Josep Tarradellas
+Barcelona-El Prat",170.0,"8,4",29.0,5.0,,N/D,No,N/D,N/D,N/D,N/D,N/D,N/D,N/D,2.453
+25,Coslada,Madrid,Madrid,80596.0,"13,6","10,6",16.0,0:25,20 min,606.0,5 h 46 min,2 h 55 min,"Adolfo Suárez 
+Madrid-Barajas",174.0,"6,7",33.0,1.0,,N/D,No,14,68,12,5,1,0,389,2.691
+26,Dos Hermanas,Sevilla,Andalucía,137561.0,N/D,"7,7",544.0,5:03,3 h 31 min,1000.0,9 h 49 min,11 h 24 min,Sevilla,70.0,"20,4",35.0,5.0,,N/D,No,28,57,5,0,0,0,383,3.526
+27,El Ejido,Almería,Andalucía,87500.0,N/D,"6,2",552.0,5:14,8 h 40 min,830.0,8 h 15 min,11 h 8 min,Almería,19.0,"51,1",30.0,9.0,,N/D,No,11,74,10,5,0,0,391,3.305
+28,El Puerto de Santa María,Cádiz,Andalucía,89435.0,"100,6","9,5",638.0,6:03,4 h 7 min,1100.0,10 h 52 min,11 h,Jerez,16.0,"28,7",30.0,7.0,,N/D,No,N/D,N/D,N/D,N/D,N/D,N/D,N/D,3.316
+29,Elche,Alicante,Comunidad Valenciana,235580.0,11,"6,5",423.0,3:58,3 h 11 min,529.0,5 h 16 min,8 h 30 min,"Alacant-Elx 
+Miguel Hernández",119.0,"19,2",31.0,6.0,,N/D,Sí,25,71,4,0,0,0,421,3.397
+30,Fuengirola,Málaga,Andalucía,83226.0,"5,4","11,5",558.0,5:16,3 h 53 min,1025.0,10 h 6 min,12 h,Málaga-Costa del Sol,137.0,"25,4",29.0,9.0,,N/D,No,N/D,N/D,N/D,N/D,N/D,N/D,N/D,3.248
+31,Fuenlabrada,Madrid,Madrid,189891.0,"9,5","9,9",25.0,0:28,25 min,638.0,6 h 3 min,3 h 1 min,"Adolfo Suárez 
+Madrid-Barajas",174.0,"34,3",33.0,0.0,,N/D,No,14,74,9,3,0,0,399,2.691
+32,Gandia,Valencia,Comunidad Valenciana,75911.0,"14,5","6,9",436.0,4:11,4 h 2 min,429.0,4 h 17 min,5 h 45 min,València,89.0,"76,9",30.0,7.0,,N/D,No,38,60,2,0,0,0,436,2.808
+33,Getafe,Madrid,Madrid,183219.0,"40,4","11,1",16.0,0:24,17 min,630.0,5 h 58 min,2 h 56 min,"Adolfo Suárez 
+Madrid-Barajas",174.0,"25,9",33.0,0.0,,N/D,No,15,70,11,4,0,0,396,2.691
+34,Getxo,Bizkaia,País Vasco,76365.0,"41,9","12,5",415.0,4:05,4 h 47 min,619.0,5 h 54 min,8 h 59 min,Bilbao,46.0,"18,8",24.0,6.0,,N/D,Sí,52,37,6,3,0,0,432,1.694
+35,Gijón,Asturias,Asturias,267706.0,"22,4","8,5",466.0,4:25,5 h 55 min,869.0,8 h 28 min,13 h,Asturias,24.0,"41,8",23.0,7.0,,N/D,No,2,68,18,13,0,0,362,1.962
+36,Girona,Girona,Cataluña,102666.0,"24,9",11,692.0,6:50,3 h 44 min,102.0,1 h 20 min,38 min,"Girona-
+Costa Brava",17.0,"15,5",31.0,2.0,,2.226,No,93,7,0,0,0,0,493,2.800
+37,Granada,Granada,Andalucía,228682.0,"32,8",9,418.0,4:04,3 h 51 min,855.0,8 h 36 min,12 h,Federico García Lorca-Granada,8.0,"17,5",34.0,0.0,,1.931,Sí,16,64,10,9,0,0,384,3.228
+38,Guadalajara,Guadalajara,Castilla-La Mancha,87452.0,"35,4","7,8",66.0,0:53,45 min,560.0,5 h 15 min,3 h 38 min,"Adolfo Suárez 
+Madrid-Barajas",174.0,"46,6",32.0,0.0,,1.521,No,21,68,7,4,1,0,407,2.900
+39,Huelva,Huelva,Andalucía,141854.0,"40,2","7,7",612.0,5:34,4 h 22 min,1087.0,10 h 46 min,14 h,Sevilla,70.0,102,31.0,7.0,,1.227,No,46,46,6,2,0,0,436,3.527
+40,Jaén,Jaén,Andalucía,111669.0,N/D,"7,1",332.0,3:14,3 h 13 min,796.0,7 h 36 min,12 h,Federico García Lorca-Granada,8.0,"95,5",36.0,1.0,,1.094,Sí,8,70,16,5,1,0,379,3289
+41,Jerez de la Frontera,Cádiz,Andalucía,212730.0,"14,6","7,7",618.0,5:37,3 h 58 min,1080.0,10 h 39 min,11 h 42 min,Jerez,16.0,"11,5",32.0,6.0,,N/D,No,15,71,13,1,0,0,400,3.316
+42,L'Hospitalet de Llobregat,Barcelona,Cataluña,265444.0,N/D,"14,5",620.0,6:08,2 h 50 min,6.0,22 min,6 min,"Josep Tarradellas
+Barcelona-El Prat",170.0,"9,8",29.0,5.0,,N/D,No,17,73,7,3,0,0,404,2.453
+43,Las Palmas de Gran Canaria,Las Palmas,Las Palmas,378797.0,"6,6","11,1",1928.0,37:00,,2546.0,42 h,,Gran Canaria,127.0,"25,2",27.0,16.0,,2.119,No,16,65,7,8,2,2,379,2.800
+44,Las Rozas de Madrid,Madrid,Madrid,95725.0,"16,4","12,6",20.0,0:23,32 min,638.0,6 h 5 min,3 h 38 min,"Adolfo Suárez 
+Madrid-Barajas",174.0,"30,4",33.0,0.0,,N/D,No,N/D,N/D,N/D,N/D,N/D,N/D,N/D,2.691
+45,Leganés,Madrid,Madrid,186660.0,"16,1","10,6",20.0,0:27,18 min,630.0,6 h 3 min,2 h 59 min,"Adolfo Suárez 
+Madrid-Barajas",174.0,28,33.0,0.0,,N/D,No,12,71,12,5,0,0,390,2.691
+46,León,León,Castilla y León,120951.0,"18,2","6,8",340.0,3:25,2 h 12 min,777.0,7 h 28 min,12 h,Valladolid,6.0,129,27.0,0.0,,1.318,Sí,58,33,5,3,0,0,443,
+47,Lleida,Lleida,Cataluña,140797.0,"26,3","7,8",468.0,4:30,2 h 11 min,160.0,1 h 52 min,1 h 5 min,Reus,14.0,88,33.0,1.0,,1.122,No,93,6,0,0,0,0,489,
+48,Logroño,La Rioja,La Rioja,150020.0,"9,7","7,6",334.0,3:51,3 h 52 min,473.0,4 h 33 min,7 h 35 min,Vitoria,3.0,98,30.0,2.0,,1.608,No,38,58,3,1,0,0,433,2.708
+49,Lorca,Murcia,Murcia,97151.0,30,"5,4",467.0,4:23,8 h 5 min,645.0,6 h 22 min,11 h 25 min,Región de Murcia,15.0,68,32.0,2.0,,N/D,No,12,63,16,8,0,0,376,3.348
+50,Lugo,Lugo,Galicia,97211.0,"14,4","6,3",500.0,4:52,4 h 53 min,991.0,9 h 52 min,14 h,A Coruña,9.0,102,27.0,2.0,,1.230,Sí,28,62,5,4,0,0,411,
+51,Madrid,Madrid,Madrid,3280782.0,"8,3","16,2",0.0,0:00,0 min,623.0,6 h 7 min,2 h 30 min,"Adolfo Suárez 
+Madrid-Barajas",174.0,"15,6",33.0,0.0,9900000.0,3.935,Sí,15,66,5,10,3,1,377,2.691
+52,Málaga,Málaga,Andalucía,579076.0,"7,8","11,9",535.0,5:13,2 h 44 min,1002.0,10 h 4 min,11 h 32 min,Málaga-Costa del Sol,137.0,"9,8",31.0,7.0,1500000.0,2.390,No,15,66,11,9,0,0,390,3.248
+53,Manresa,Barcelona,Cataluña,77452.0,N/D,"7,5",576.0,5:33,4 h 11 min,58.0,1 h ,1 h 23 min,"Josep Tarradellas
+Barcelona-El Prat",170.0,"64,6",31.0,1.0,,N/D,No,94,6,0,0,0,0,494,2.453
+54,Marbella,Málaga,Andalucía,150725.0,"6,7","15,1",584.0,5:41,3 h 59 min,1051.0,10 h 22 min,13 h,Málaga-Costa del Sol,137.0,"52,2",29.0,9.0,742172.0,N/D,No,35,62,3,0,0,0,432,3.248
+55,Mataró,Barcelona,Cataluña,128956.0,"11,6","10,6",651.0,6:30,3 h 25 min,31.0,36 min,44 min,"Josep Tarradellas
+Barcelona-El Prat",170.0,"46,9",29.0,4.0,,N/D,No,21,71,7,0,0,0,410,2.453
+56,Melilla,Melilla,Melilla,85170.0,N/D,"9,7",665.0,11:31,15 h,1084.0,16 h ,18 h,Málaga-Costa del Sol,137.0,284,30.0,10.0,,1.856,No,5,76,15,4,0,0,382,N/D
+57,Mijas,Málaga,Andalucía,89502.0,"6,7","11,2",558.0,5:17,4 h 32 min,1025.0,10 h 6 min,13 h,Málaga-Costa del Sol,137.0,"26,3",27.0,7.0,,N/D,No,N/D,N/D,N/D,N/D,N/D,N/D,N/D,3.248
+58,Móstoles,Madrid,Madrid,208761.0,N/D,"9,9",22.0,0:28,40 min,639.0,6 h 10 min,3 h 17 min,"Adolfo Suárez 
+Madrid-Barajas",174.0,"35,1",33.0,0.0,,N/D,No,20,69,7,3,0,0,403,2.691
+59,Murcia,Murcia,Murcia,462979.0,"19,6","7,6",405.0,3:44,3 h 38 min,583.0,5 h 41 min,9 h 45 min,Región de Murcia,15.0,"27,1",33.0,4.0,,1.166,Sí,10,69,13,8,0,0,381,3.348
+60,Orihuela,Alicante,Comunidad Valenciana,80784.0,N/D,"7,9",428.0,4:04,4 h 17 min,561.0,5 h 35 min,10 h 5 min,"Alacant-Elx 
+Miguel Hernández",119.0,50,32.0,5.0,,N/D,No,55,44,2,,0,0,457,3.397
+61,Ourense,Ourense,Galicia,103756.0,N/D,"6,5",499.0,4:42,2 h 45 min,1053.0,10 h 18 min,11 h 46 min,Vigo,8.0,89,29.0,5.0,,1.458,No,30,63,4,3,0,0,420,2.800
+62,Oviedo,Asturias,Asturias,215167.0,N/D,"8,3",448.0,4:17,5 h 25 min,886.0,8 h 40 min,12 h,Asturias,24.0,"46,7",23.0,5.0,,1.636,Sí,14,66,9,11,0,0,383,1.962
+63,Palencia,Palencia,Castilla y León,76302.0,"21,6","6,5",260.0,2:39,1 h 27 min,688.0,6 h 40 min,4 h 41 min,Valladolid,6.0,"58,4",29.0,0.0,,1.278,No,22,70,6,2,0,0,412,N/D
+64,Palma,Illes Balears,Illes Balears,415940.0,"27,6","13,7",704.0,12:30,21 h,276.0,8 h 27 min,7 h 56 min,Palma de Mallorca,125.0,"9,3",31.0,5.0,2400000.0,3.531,No,9,61,14,14,1,0,360,3.098
+65,Pamplona,Navarra,Navarra,203418.0,33,"10,1",396.0,4:10,3 h 43 min,480.0, 4 h 40 min,4 h 20 min,Vitoria,3.0,102,28.0,0.0,,2.539,No,27,69,4,1,0,0,425,2.285
+66,Parla,Madrid,Madrid,130577.0,"7,7","9,1",26.0,0:32,26 min,638.0,6 h 7 min,3 h ,"Adolfo Suárez 
+Madrid-Barajas",174.0,"35,9",33.0,0.0,,N/D,No,N/D,N/D,N/D,N/D,N/D,N/D,N/D,2.691
+67,Pontevedra,Pontevedra,Galicia,82828.0,"6,5","7,4",614.0,5:53,4 h 34 min,1167.0,11 h 30 min,13 h ,Vigo,8.0,"30,4",26.0,7.0,,1.860,No,54,43,2,1,0,0,450,3.031
+68,Pozuelo de Alarcón,Madrid,Madrid,87728.0,"19,4","12,9",15.0,0:21,33 min,633.0,6 h 1 min,3 h 17 min,"Adolfo Suárez 
+Madrid-Barajas",174.0,"25,6",33.0,0.0,,N/D,No,N/D,N/D,N/D,N/D,N/D,N/D,N/D,2.691
+69,Reus,Tarragona,Cataluña,106741.0,"18,7","7,9",545.0,5:21,3 h 54 min,108.0,1 h 20 min,1 h 38 min,Reus,14.0,"4,3",29.0,3.0,,N/D,No,41,57,2,0,0,0,439,2.820
+70,Rivas-Vaciamadrid,Madrid,Madrid,96690.0,N/D,"9,8",19.0,0:26,25 min,615.0,5 h 49 min,3 h 37 min,"Adolfo Suárez 
+Madrid-Barajas",174.0,"19,8",34.0,1.0,,N/D,No,21,67,8,3,0,0,403,2.691
+71,Roquetas de Mar,Almería,Andalucía,102881.0,N/D,7,564.0,5:26,11 h 25 min,816.0,8 h 7 min,14 h,Almería,19.0,"37,1",30.0,9.0,,N/D,No,N/D,N/D,N/D,N/D,N/D,N/D,N/D,3.305
+72,Rubí,Barcelona,Cataluña,79007.0,N/D,"11,4",611.0,6:02,3 h 48 min,24.0,26 min,1 h 20 min,"Josep Tarradellas
+Barcelona-El Prat",170.0,"28,8",29.0,2.0,,N/D,No,27,66,6,0,0,0,417,2.453
+73,Sabadell,Barcelona,Cataluña,215760.0,"78,8","10,6",623.0,6:11,3 h 15 min,26.0,35 min,36 min,"Josep Tarradellas
+Barcelona-El Prat",170.0,38,29.0,2.0,,N/D,No,78,21,0,0,0,0,474,2.453
+74,Salamanca,Salamanca,Castilla y León,142412.0,"31,5","8,6",214.0,2:16,1 h 40 min,832.0,8 h 8 min,11 h 19 min,Valladolid,6.0,127,30.0,0.0,701422.0,1.752,Sí,77,18,3,2,0,0,470,3.262
+75,San Cristóbal de La Laguna,Santa Cruz de Tenerife,Santa Cruz de Tenerife,157815.0,"2,7",8,1960.0,42:00,,2434.0,46 h,,Tenerife Norte-La Laguna,24.0,"3,3",24.0,12.0,,N/D,Sí,N/D,N/D,N/D,N/D,N/D,N/D,N/D,3.098
+76,San Fernando,Cádiz,Andalucía,94120.0,"21,2","7,7",649.0,3:59,4 h 21 min,1111.0,10 h 53 min,12 h,Jerez,16.0,"45,3",29.0,8.0,,N/D,No,11,76,12,1,0,0,397,3.316
+77,San Sebastián,Gipuzkoa,País Vasco,187849.0,"37,4","15,7",457.0,4:33,5 h 44 min,565.0,5 h 40 min,8 h 35 min,Bilbao,46.0,99,25.0,6.0,,5.191,No,48,45,3,4,0,0,437,1.906
+78,San Sebastián de los Reyes,Madrid,Madrid,91083.0,"33,7","11,7",30.0,0:31,34 min,612.0,5 h 48 min,3 h 44 min,"Adolfo Suárez 
+Madrid-Barajas",174.0,"10,5",33.0,0.0,,N/D,No,N/D,N/D,N/D,N/D,N/D,N/D,N/D,2.691
+79,Sant Boi de Llobregat,Barcelona,Cataluña,83371.0,N/D,"11,3",618.0,6:04,3 h 10 min,16.0,27 min,31 min,"Josep Tarradellas
+Barcelona-El Prat",170.0,"10,1",29.0,5.0,,N/D,No,N/D,N/D,N/D,N/D,N/D,N/D,N/D,2.453
+80,Sant Cugat del Vallès,Barcelona,Cataluña,95725.0,52,"14,2",614.0,6:08,3 h 42 min,19.0,30 min,1 h ,"Josep Tarradellas
+Barcelona-El Prat",170.0,"25,6",29.0,3.0,,N/D,No,52,44,3,0,0,0,445,2.453
+81,Santa Coloma de Gramenet,Barcelona,Cataluña,117981.0,"2,5","12,5",627.0,6:10,3 h 10 min,9.0,20 min,22 min,"Josep Tarradellas
+Barcelona-El Prat",170.0,"23,2",29.0,4.0,,N/D,No,75,25,0,0,0,0,475,2.453
+82,Santa Cruz de Tenerife,Santa Cruz de Tenerife,Santa Cruz de Tenerife,208688.0,"3,3","9,6",1950.0,41:00,,2425.0,45 h,,Tenerife Norte-La Laguna,24.0,12,28.0,15.0,,1.716,No,9,72,6,7,2,4,367,3.098
+83,Santander,Cantabria,Cantabria,171693.0,"19,2","9,3",455.0,4:19,5 h 53 min,703.0,6 h 50 min,9 h 45 min,"Seve Ballesteros-
+Santander",23.0,"5,6",23.0,6.0,,1.998,No,43,50,4,2,0,0,431,1.639
+84,Santiago de Compostela,A Coruña,Galicia,98179.0,N/D,"8,2",600.0,5:37,3 h 22 min,1085.0,11 h ,13 h,Santiago-Rosalía de Castro,33.0,"14,2",25.0,5.0,926153.0,N/D,Sí,35,61,3,1,0,0,430,2.453
+85,Sevilla,Sevilla,Andalucía,681998.0,"27,6","10,6",530.0,5:02,2 h 42 min,994.0,9 h 58 min,11 h 6 min,Sevilla,70.0,"8,8",36.0,6.0,3000000.0,2.151,No,43,53,4,0,0,0,439,3.526
+86,Talavera de la Reina,Toledo,Castilla-La Mancha,83247.0,"12,0","5,8",123.0,1:18,1 h 20 min,741.0,7 h 8 min,9 h 49 min,"Adolfo Suárez 
+Madrid-Barajas",174.0,139,35.0,2.0,,N/D,Sí,28,60,7,4,0,0,409,2.815
+87,Tarragona,Tarragona,Cataluña,134883.0,N/D,"9,2",552.0,5:21,4 h 16 min,98.0,1 h 14 min,1 h 15 min,Reus,14.0,"10,9",29.0,5.0,,1.828,Sí,32,62,6,0,0,0,426,2.820
+88,Telde,Las Palmas,Las Palmas,102472.0,N/D,"8,2",1945.0,37:00,,2563.0,43 h,,Gran Canaria,127.0,"10,9",26.0,15.0,,N/D,No,18,69,4,5,1,2,389,
+89,Terrassa,Barcelona,Cataluña,224114.0,"8,3","10,2",620.0,6:00,3 h 26 min,28.0,37 min,47 min,"Josep Tarradellas
+Barcelona-El Prat",170.0,"34,8",29.0,1.0,,N/D,No,73,26,1,0,0,0,472,2.453
+90,Toledo,Toledo,Castilla-La Mancha,85085.0,"36,4","7,9",75.0,0:56,1 h,686.0,6 h 37 min,3 h 45 min,"Adolfo Suárez 
+Madrid-Barajas",174.0,84,34.0,1.0,593970.0,1.422,Sí,19,68,9,4,0,0,402,2.815
+91,Torrejón de Ardoz,Madrid,Madrid,134733.0,"11,7","10,4",32.0,0:34,29 min,594.0,5 h 37 min,3 h 8 min,"Adolfo Suárez 
+Madrid-Barajas",174.0,"12,9",33.0,1.0,,N/D,No,18,68,9,4,0,0,397,2.691
+92,Torrente,Valencia,Comunidad Valenciana,85142.0,"11,7","8,1",352.0,3:48,2 h 17 min,365.0,3 h 41 min,3 h 24 min,València,89.0,"11,6",31.0,6.0,,N/D,No,31,63,5,2,0,0,426,2.808
+93,Torrevieja,Alicante,Comunidad Valenciana,83547.0,N/D,"8,8",460.0,4:25,4 h 53 min,571.0,5 h 41 min,10 h 30 min,"Alacant-Elx 
+Miguel Hernández",119.0,"43,9",29.0,6.0,,N/D,No,14,71,12,2,0,0,394,3.397
+94,Valdemoro,Madrid,Madrid,79100.0,"1,3","9,3",30.0,0:29,30 min,636.0,6 h ,3 h 22 min,"Adolfo Suárez 
+Madrid-Barajas",174.0,"35,3",33.0,0.0,,,No,11,74,11,4,0,0,392,2.691
+95,València,Valencia,Comunidad Valenciana,792492.0,"20,4","11,3",356.0,3:50,2 h ,348.0,3 h 34 min,3 h ,València,89.0,"10,3",30.0,6.0,2060000.0,2.122,Sí,17,69,9,5,0,0,398,2.808
+96,Valladolid,Valladolid,Castilla y León,295639.0,"36,2","7,4",191.0,2:25,1 h 5 min,724.0,7 h 6 min,4 h ,Valladolid,6.0,"14,3",30.0,1.0,,1.578,No,48,43,5,3,0,0,433,3.016
+97,Vélez-Málaga,Málaga,Andalucía,83899.0,N/D,"7,7",534.0,5:05,4 h 45 min,965.0,9 h 48 min,13 h,Málaga-Costa del Sol,137.0,"49,8",31.0,7.0,,N/D,No,N/D,N/D,N/D,N/D,N/D,N/D,N/D,3.248
+98,Vigo,Pontevedra,Galicia,292374.0,"16,4","9,5",591.0,5:40,5 h 6 min,1144.0,11 h 18 min,15 h ,Vigo,8.0,"13,5",26.0,7.0,,N/D,No,27,66,4,2,0,0,415,3.031
+99,Vitoria-Gasteiz,Álava,País Vasco,253672.0,"49,6","10,9",364.0,3:42,3 h 11 min,527.0,5 h 28 min,6 h 15 min,Vitoria,3.0,12,26.0,1.0,,2.515,No,59,35,3,3,0,0,450,2.147
+100,Zaragoza,Zaragoza,Aragón,673010.0,20,"8,9",319.0,3:24,1 h 27 min,308.0,3 h 8 min,1 h 52 min,Zaragoza,16.0,"13,1",33.0,3.0,,1.714,Sí,36,63,2,0,0,0,438,2.602
