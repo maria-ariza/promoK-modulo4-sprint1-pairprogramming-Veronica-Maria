@@ -1,102 +1,102 @@
 ,Municipio,Provincia,Comunidad Autónoma,Habitantes (2022),Carril Bici,Precios alquiler,Distancia a Madrid (km),Tiempo medio de viaje a Madrid en coche,Tiempo medio de viaje a Madrid en tren o autobús,Distancia a Barcelona (km),Tiempo medio de viaje a Barcelona en coche,Tiempo medio de viaje a Barcelona en tren o autobús,Aeropuerto Internacional más cercano,Número deconexiones delaeropuerto internacionalmás cercano,Distancia al aeropuerto internacional más cercano (km),Temperatura máxima media (ºC),Temperatura mínima media (ºC),Número de visitantes internacionales al año,Precio medio vivienda (EUR/m2),Patrimonio de la Humanidad,Ponderación calidad del aire,Horas de Sol mediasanuales
-0,A Coruña,A Coruña,Galicia,244700.0,20.4,9.1,593.0,337,272.0,1084.0,,,A Coruña,9.0,11.6,24.0,7.0,,2.3,Sí,410.0,2.453
-1,Albacete,Albacete,Castilla-La Mancha,172357.0,24.4,7.1,260.0,154,97.0,545.0,322.0,325.0,Alacant-Elx Miguel Hernández,119.0,169.0,33.0,0.0,,1.417,No,369.0,3.282
-2,Alcalá de Guadaíra,Sevilla,Andalucía,75917.0,,6.6,531.0,309,209.0,995.0,590.0,,Sevilla,70.0,21.1,35.0,5.0,,1.277,No,397.0,3.526
-3,Alcalá de Henares,Madrid,Madrid,196888.0,28.0,9.9,40.0,39,,586.0,330.0,200.0,Adolfo Suárez Madrid-Barajas,174.0,21.0,33.0,1.0,,1.654,Sí,396.0,2.691
-4,Alcobendas,Madrid,Madrid,117041.0,53.8,12.0,24.0,25,,613.0,347.0,229.0,Adolfo Suárez Madrid-Barajas,174.0,9.1,33.0,0.0,,3.084,No,408.0,2.691
-5,Alcorcón,Madrid,Madrid,170296.0,17.6,10.8,15.0,34,,631.0,363.0,189.0,Adolfo Suárez Madrid-Barajas,174.0,29.5,33.0,0.0,,1.761,No,398.0,2.691
-6,Algeciras,Cádiz,Andalucía,122368.0,,7.1,662.0,380,340.0,1106.0,,,Jerez,16.0,107.0,28.0,11.0,,1.168,No,401.0,3.316
-7,Alicante,Alicante,Comunidad Valenciana,338577.0,39.3,9.4,427.0,242,145.0,525.0,318.0,,Alacant-Elx Miguel Hernández,119.0,11.1,31.0,7.0,841152.0,1.705,No,423.0,3.397
-8,Almería,Almería,Andalucía,199237.0,40.2,7.6,551.0,315,605.0,803.0,475.0,,Almería,19.0,8.6,30.0,8.0,,1.302,No,387.0,3.305
-9,Arona,Santa Cruz de Tenerife,Santa Cruz de Tenerife,82982.0,,13.7,2029.0,2520,,2504.0,,,Tenerife Sur,102.0,18.9,25.0,13.0,,1.771,No,,3.098
-10,Avilés,Asturias,Asturias,75877.0,9.9,6.8,481.0,281,,893.0,529.0,,Asturias,24.0,14.5,22.0,7.0,,1.274,No,395.0,1.962
-11,Badajoz,Badajoz,Extremadura,150146.0,,6.7,404.0,224,268.0,1021.0,593.0,,Sevilla,70.0,217.0,35.0,3.0,,1.374,No,423.0,3.224
-12,Badalona,Barcelona,Cataluña,223506.0,0.9,12.8,633.0,381,182.0,10.0,,,Josep TarradellasBarcelona-El Prat,170.0,24.7,29.0,5.0,,2.247,No,429.0,2.453
-13,Barakaldo,Bizkaia,País Vasco,100535.0,16.0,11.3,408.0,243,294.0,612.0,351.0,580.0,Bilbao,46.0,16.0,24.0,6.0,,1.731,No,423.0,1.694
-14,Barcelona,Barcelona,Cataluña,1636193.0,14.1,18.4,623.0,375,165.0,0.0,,,Josep TarradellasBarcelona-El Prat,170.0,12.6,28.0,5.0,8200000.0,4.063,Sí,429.0,2.453
-15,Bilbao,Bizkaia,País Vasco,344127.0,9.8,13.3,401.0,239,268.0,605.0,344.0,610.0,Bilbao,46.0,12.1,24.0,5.0,1100000.0,3.174,No,442.0,1.694
-16,Burgos,Burgos,Castilla y León,173483.0,34.6,7.9,248.0,157,144.0,602.0,346.0,288.0,Vitoria,3.0,122.0,27.0,-1.0,,1.642,Sí,476.0,2.751
-17,Cáceres,Cáceres,Extremadura,95456.0,53.4,6.3,297.0,170,183.0,914.0,531.0,689.0,Sevilla,70.0,269.0,34.0,1.0,,1.22,Sí,406.0,3.365
-18,Cádiz,Cádiz,Andalucía,113066.0,,10.5,647.0,359,272.0,1109.0,649.0,,Jerez,16.0,42.3,29.0,8.0,,2.548,No,394.0,3.316
-19,Cartagena,Murcia,Murcia,216961.0,20.7,6.7,453.0,257,277.0,626.0,369.0,570.0,Región de Murcia,15.0,32.1,29.0,6.0,,1.472,No,395.0,3.348
-20,Castelló de la Plana,Castellón,Comunidad Valenciana,171857.0,50.0,7.1,460.0,257,209.0,278.0,176.0,140.0,Castelló,11.0,33.1,28.0,7.0,,1.214,No,443.0,3.321
-21,Ceuta,Ceuta,Ceuta,83117.0,1.2,7.5,704.0,514,,1171.0,800.0,,Jerez,16.0,149.0,27.0,11.0,,2.204,No,396.0,2.808
-22,Chiclana de la Frontera,Cádiz,Andalucía,87493.0,12.9,8.6,656.0,367,317.0,1118.0,658.0,,Jerez,16.0,52.6,29.0,8.0,479477.0,1.38,No,,3.316
-23,Córdoba,Córdoba,Andalucía,319515.0,41.6,7.0,396.0,232,112.0,860.0,503.0,292.0,Sevilla,70.0,137.0,36.0,4.0,929781.0,1.441,Sí,399.0,3.316
-24,Cornellà de Llobregat,Barcelona,Cataluña,89039.0,47.2,13.7,616.0,360,173.0,17.0,,,Josep TarradellasBarcelona-El Prat,170.0,8.4,29.0,5.0,,1.629,No,,2.453
-25,Coslada,Madrid,Madrid,80596.0,13.6,10.6,16.0,25,,606.0,346.0,175.0,Adolfo Suárez Madrid-Barajas,174.0,6.7,33.0,1.0,,1.765,No,389.0,2.691
-26,Dos Hermanas,Sevilla,Andalucía,137561.0,,7.7,544.0,303,211.0,1000.0,589.0,684.0,Sevilla,70.0,20.4,35.0,5.0,,1.462,No,383.0,3.526
-27,El Ejido,Almería,Andalucía,87500.0,,6.2,552.0,314,520.0,830.0,495.0,668.0,Almería,19.0,51.1,30.0,9.0,,1.212,No,391.0,3.305
-28,El Puerto de Santa María,Cádiz,Andalucía,89435.0,100.6,9.5,638.0,363,247.0,1100.0,652.0,,Jerez,16.0,28.7,30.0,7.0,,1.485,No,,3.316
-29,Elche,Alicante,Comunidad Valenciana,235580.0,11.0,6.5,423.0,238,191.0,529.0,316.0,510.0,Alacant-Elx Miguel Hernández,119.0,19.2,31.0,6.0,,1.364,Sí,421.0,3.397
-30,Fuengirola,Málaga,Andalucía,83226.0,5.4,11.5,558.0,316,233.0,1025.0,606.0,,Málaga-Costa del Sol,137.0,25.4,29.0,9.0,,2.285,No,,3.248
-31,Fuenlabrada,Madrid,Madrid,189891.0,9.5,9.9,25.0,28,,638.0,363.0,181.0,Adolfo Suárez Madrid-Barajas,174.0,34.3,33.0,0.0,,1.594,No,399.0,2.691
-32,Gandia,Valencia,Comunidad Valenciana,75911.0,14.5,6.9,436.0,251,242.0,429.0,257.0,345.0,València,89.0,76.9,30.0,7.0,,1.505,No,436.0,2.808
-33,Getafe,Madrid,Madrid,183219.0,40.4,11.1,16.0,24,,630.0,358.0,176.0,Adolfo Suárez Madrid-Barajas,174.0,25.9,33.0,0.0,,2.084,No,396.0,2.691
-34,Getxo,Bizkaia,País Vasco,76365.0,41.9,12.5,415.0,245,287.0,619.0,354.0,539.0,Bilbao,46.0,18.8,24.0,6.0,,4.205,Sí,432.0,1.694
-35,Gijón,Asturias,Asturias,267706.0,22.4,8.5,466.0,265,355.0,869.0,508.0,,Asturias,24.0,41.8,23.0,7.0,,1.622,No,362.0,1.962
-36,Girona,Girona,Cataluña,102666.0,24.9,11.0,692.0,410,224.0,102.0,80.0,,Girona-Costa Brava,17.0,15.5,31.0,2.0,,2.226,No,493.0,2.8
-37,Granada,Granada,Andalucía,228682.0,32.8,9.0,418.0,244,231.0,855.0,516.0,,Federico García Lorca-Granada,8.0,17.5,34.0,0.0,,1.931,Sí,384.0,3.228
-38,Guadalajara,Guadalajara,Castilla-La Mancha,87452.0,35.4,7.8,66.0,53,,560.0,315.0,218.0,Adolfo Suárez Madrid-Barajas,174.0,46.6,32.0,0.0,,1.521,No,407.0,2.9
-39,Huelva,Huelva,Andalucía,141854.0,40.2,7.7,612.0,334,262.0,1087.0,646.0,,Sevilla,70.0,102.0,31.0,7.0,,1.227,No,436.0,3.527
-40,Jaén,Jaén,Andalucía,111669.0,,7.1,332.0,194,193.0,796.0,456.0,,Federico García Lorca-Granada,8.0,95.5,36.0,1.0,,1.094,Sí,379.0,3289.0
-41,Jerez de la Frontera,Cádiz,Andalucía,212730.0,14.6,7.7,618.0,337,238.0,1080.0,639.0,702.0,Jerez,16.0,11.5,32.0,6.0,,1.279,No,400.0,3.316
-42,L'Hospitalet de Llobregat,Barcelona,Cataluña,265444.0,,14.5,620.0,368,170.0,6.0,,,Josep TarradellasBarcelona-El Prat,170.0,9.8,29.0,5.0,,2.62,No,404.0,2.453
-43,Las Palmas de Gran Canaria,Las Palmas,Las Palmas,378797.0,6.6,11.1,1928.0,2220,,2546.0,,,Gran Canaria,127.0,25.2,27.0,16.0,,2.119,No,379.0,2.8
-44,Las Rozas de Madrid,Madrid,Madrid,95725.0,16.4,12.6,20.0,23,,638.0,365.0,218.0,Adolfo Suárez Madrid-Barajas,174.0,30.4,33.0,0.0,,2.655,No,,2.691
-45,Leganés,Madrid,Madrid,186660.0,16.1,10.6,20.0,27,,630.0,363.0,179.0,Adolfo Suárez Madrid-Barajas,174.0,28.0,33.0,0.0,,2.004,No,390.0,2.691
-46,León,León,Castilla y León,120951.0,18.2,6.8,340.0,205,132.0,777.0,448.0,,Valladolid,6.0,129.0,27.0,0.0,,1.318,Sí,443.0,2.808
-47,Lleida,Lleida,Cataluña,140797.0,26.3,7.8,468.0,270,131.0,160.0,112.0,65.0,Reus,14.0,88.0,33.0,1.0,,1.122,No,489.0,2.808
-48,Logroño,La Rioja,La Rioja,150020.0,9.7,7.6,334.0,231,232.0,473.0,273.0,455.0,Vitoria,3.0,98.0,30.0,2.0,,1.608,No,433.0,2.708
-49,Lorca,Murcia,Murcia,97151.0,30.0,5.4,467.0,263,485.0,645.0,382.0,685.0,Región de Murcia,15.0,68.0,32.0,2.0,,1.23,No,376.0,3.348
-50,Lugo,Lugo,Galicia,97211.0,14.4,6.3,500.0,292,293.0,991.0,592.0,,A Coruña,9.0,102.0,27.0,2.0,,1.23,Sí,411.0,2.808
-51,Madrid,Madrid,Madrid,3280782.0,8.3,16.2,0.0,0,,623.0,367.0,150.0,Adolfo Suárez Madrid-Barajas,174.0,15.6,33.0,0.0,9900000.0,3.935,Sí,377.0,2.691
-52,Málaga,Málaga,Andalucía,579076.0,7.8,11.9,535.0,313,164.0,1002.0,604.0,692.0,Málaga-Costa del Sol,137.0,9.8,31.0,7.0,1500000.0,2.39,No,390.0,3.248
-53,Manresa,Barcelona,Cataluña,77452.0,,7.5,576.0,333,251.0,58.0,,83.0,Josep TarradellasBarcelona-El Prat,170.0,64.6,31.0,1.0,,1.514,No,494.0,2.453
-54,Marbella,Málaga,Andalucía,150725.0,6.7,15.1,584.0,341,239.0,1051.0,622.0,,Málaga-Costa del Sol,137.0,52.2,29.0,9.0,742172.0,3.645,No,432.0,3.248
-55,Mataró,Barcelona,Cataluña,128956.0,11.6,10.6,651.0,390,205.0,31.0,,,Josep TarradellasBarcelona-El Prat,170.0,46.9,29.0,4.0,,1.937,No,410.0,2.453
-56,Melilla,Melilla,Melilla,85170.0,,9.7,665.0,691,,1084.0,,,Málaga-Costa del Sol,137.0,284.0,30.0,10.0,,1.856,No,382.0,2.808
-57,Mijas,Málaga,Andalucía,89502.0,6.7,11.2,558.0,317,272.0,1025.0,606.0,,Málaga-Costa del Sol,137.0,26.3,27.0,7.0,,2.282,No,,3.248
-58,Móstoles,Madrid,Madrid,208761.0,,9.9,22.0,28,,639.0,370.0,197.0,Adolfo Suárez Madrid-Barajas,174.0,35.1,33.0,0.0,,1.495,No,403.0,2.691
-59,Murcia,Murcia,Murcia,462979.0,19.6,7.6,405.0,224,218.0,583.0,341.0,585.0,Región de Murcia,15.0,27.1,33.0,4.0,,1.166,Sí,381.0,3.348
-60,Orihuela,Alicante,Comunidad Valenciana,80784.0,,7.9,428.0,244,257.0,561.0,335.0,605.0,Alacant-Elx Miguel Hernández,119.0,50.0,32.0,5.0,,1.615,No,457.0,3.397
-61,Ourense,Ourense,Galicia,103756.0,,6.5,499.0,282,165.0,1053.0,618.0,706.0,Vigo,8.0,89.0,29.0,5.0,,1.458,No,420.0,2.8
-62,Oviedo,Asturias,Asturias,215167.0,,8.3,448.0,257,325.0,886.0,520.0,,Asturias,24.0,46.7,23.0,5.0,,1.636,Sí,383.0,1.962
-63,Palencia,Palencia,Castilla y León,76302.0,21.6,6.5,260.0,159,87.0,688.0,400.0,281.0,Valladolid,6.0,58.4,29.0,0.0,,1.278,No,412.0,2.808
-64,Palma,Illes Balears,Illes Balears,415940.0,27.6,13.7,704.0,750,,276.0,507.0,476.0,Palma de Mallorca,125.0,9.3,31.0,5.0,2400000.0,3.531,No,360.0,3.098
-65,Pamplona,Navarra,Navarra,203418.0,33.0,10.1,396.0,250,223.0,480.0,280.0,260.0,Vitoria,3.0,102.0,28.0,0.0,,2.539,No,425.0,2.285
-66,Parla,Madrid,Madrid,130577.0,7.7,9.1,26.0,32,,638.0,367.0,,Adolfo Suárez Madrid-Barajas,174.0,35.9,33.0,0.0,,1.536,No,,2.691
-67,Pontevedra,Pontevedra,Galicia,82828.0,6.5,7.4,614.0,353,274.0,1167.0,690.0,,Vigo,8.0,30.4,26.0,7.0,,1.86,No,450.0,3.031
-68,Pozuelo de Alarcón,Madrid,Madrid,87728.0,19.4,12.9,15.0,21,,633.0,361.0,197.0,Adolfo Suárez Madrid-Barajas,174.0,25.6,33.0,0.0,,3.42,No,,2.691
-69,Reus,Tarragona,Cataluña,106741.0,18.7,7.9,545.0,321,234.0,108.0,80.0,98.0,Reus,14.0,4.3,29.0,3.0,,1.676,No,439.0,2.82
-70,Rivas-Vaciamadrid,Madrid,Madrid,96690.0,,9.8,19.0,26,,615.0,349.0,217.0,Adolfo Suárez Madrid-Barajas,174.0,19.8,34.0,1.0,,2.361,No,403.0,2.691
-71,Roquetas de Mar,Almería,Andalucía,102881.0,,7.0,564.0,326,685.0,816.0,487.0,,Almería,19.0,37.1,30.0,9.0,,1.497,No,,3.305
-72,Rubí,Barcelona,Cataluña,79007.0,,11.4,611.0,362,228.0,24.0,,80.0,Josep TarradellasBarcelona-El Prat,170.0,28.8,29.0,2.0,,1.787,No,417.0,2.453
-73,Sabadell,Barcelona,Cataluña,215760.0,78.8,10.6,623.0,371,195.0,26.0,,,Josep TarradellasBarcelona-El Prat,170.0,38.0,29.0,2.0,,1.916,No,474.0,2.453
-74,Salamanca,Salamanca,Castilla y León,142412.0,31.5,8.6,214.0,136,100.0,832.0,488.0,679.0,Valladolid,6.0,127.0,30.0,0.0,701422.0,1.752,Sí,470.0,3.262
-75,San Cristóbal de La Laguna,Santa Cruz de Tenerife,Santa Cruz de Tenerife,157815.0,2.7,8.0,1960.0,2520,,2434.0,,,Tenerife Norte-La Laguna,24.0,3.3,24.0,12.0,,1.869,Sí,,3.098
-76,San Fernando,Cádiz,Andalucía,94120.0,21.2,7.7,649.0,239,261.0,1111.0,653.0,,Jerez,16.0,45.3,29.0,8.0,,1.543,No,397.0,3.316
-77,San Sebastián,Gipuzkoa,País Vasco,187849.0,37.4,15.7,457.0,273,344.0,565.0,340.0,515.0,Bilbao,46.0,99.0,25.0,6.0,,5.191,No,437.0,1.906
-78,San Sebastián de los Reyes,Madrid,Madrid,91083.0,33.7,11.7,30.0,31,,612.0,348.0,224.0,Adolfo Suárez Madrid-Barajas,174.0,10.5,33.0,0.0,,2.347,No,,2.691
-79,Sant Boi de Llobregat,Barcelona,Cataluña,83371.0,,11.3,618.0,364,190.0,16.0,,,Josep TarradellasBarcelona-El Prat,170.0,10.1,29.0,5.0,,1.787,No,,2.453
-80,Sant Cugat del Vallès,Barcelona,Cataluña,95725.0,52.0,14.2,614.0,368,222.0,19.0,,,Josep TarradellasBarcelona-El Prat,170.0,25.6,29.0,3.0,,3.513,No,445.0,2.453
-81,Santa Coloma de Gramenet,Barcelona,Cataluña,117981.0,2.5,12.5,627.0,370,190.0,9.0,,,Josep TarradellasBarcelona-El Prat,170.0,23.2,29.0,4.0,,2.155,No,475.0,2.453
-82,Santa Cruz de Tenerife,Santa Cruz de Tenerife,Santa Cruz de Tenerife,208688.0,3.3,9.6,1950.0,2460,,2425.0,,,Tenerife Norte-La Laguna,24.0,12.0,28.0,15.0,,1.716,No,367.0,3.098
-83,Santander,Cantabria,Cantabria,171693.0,19.2,9.3,455.0,259,353.0,703.0,410.0,585.0,Seve Ballesteros-Santander,23.0,5.6,23.0,6.0,,1.998,No,431.0,1.639
-84,Santiago de Compostela,A Coruña,Galicia,98179.0,,8.2,600.0,337,202.0,1085.0,,,Santiago-Rosalía de Castro,33.0,14.2,25.0,5.0,926153.0,2.268,Sí,430.0,2.453
-85,Sevilla,Sevilla,Andalucía,681998.0,27.6,10.6,530.0,302,162.0,994.0,598.0,666.0,Sevilla,70.0,8.8,36.0,6.0,3000000.0,2.151,No,439.0,3.526
-86,Talavera de la Reina,Toledo,Castilla-La Mancha,83247.0,12.0,5.8,123.0,78,80.0,741.0,428.0,589.0,Adolfo Suárez Madrid-Barajas,174.0,139.0,35.0,2.0,,1.286,Sí,409.0,2.815
-87,Tarragona,Tarragona,Cataluña,134883.0,,9.2,552.0,321,256.0,98.0,74.0,75.0,Reus,14.0,10.9,29.0,5.0,,1.828,Sí,426.0,2.82
-88,Telde,Las Palmas,Las Palmas,102472.0,,8.2,1945.0,2220,,2563.0,,,Gran Canaria,127.0,10.9,26.0,15.0,,1.334,No,389.0,2.808
-89,Terrassa,Barcelona,Cataluña,224114.0,8.3,10.2,620.0,360,206.0,28.0,,,Josep TarradellasBarcelona-El Prat,170.0,34.8,29.0,1.0,,2.091,No,472.0,2.453
-90,Toledo,Toledo,Castilla-La Mancha,85085.0,36.4,7.9,75.0,56,,686.0,397.0,225.0,Adolfo Suárez Madrid-Barajas,174.0,84.0,34.0,1.0,593970.0,1.422,Sí,402.0,2.815
-91,Torrejón de Ardoz,Madrid,Madrid,134733.0,11.7,10.4,32.0,34,,594.0,337.0,188.0,Adolfo Suárez Madrid-Barajas,174.0,12.9,33.0,1.0,,2.165,No,397.0,2.691
-92,Torrente,Valencia,Comunidad Valenciana,85142.0,11.7,8.1,352.0,228,137.0,365.0,221.0,204.0,València,89.0,11.6,31.0,6.0,,1.618,No,426.0,2.808
-93,Torrevieja,Alicante,Comunidad Valenciana,83547.0,,8.8,460.0,265,293.0,571.0,341.0,630.0,Alacant-Elx Miguel Hernández,119.0,43.9,29.0,6.0,,1.763,No,394.0,3.397
-94,Valdemoro,Madrid,Madrid,79100.0,1.3,9.3,30.0,29,,636.0,,202.0,Adolfo Suárez Madrid-Barajas,174.0,35.3,33.0,0.0,,1.693,No,392.0,2.691
-95,València,Valencia,Comunidad Valenciana,792492.0,20.4,11.3,356.0,230,,348.0,214.0,,València,89.0,10.3,30.0,6.0,2060000.0,2.122,Sí,398.0,2.808
-96,Valladolid,Valladolid,Castilla y León,295639.0,36.2,7.4,191.0,145,65.0,724.0,426.0,,Valladolid,6.0,14.3,30.0,1.0,,1.578,No,433.0,3.016
-97,Vélez-Málaga,Málaga,Andalucía,83899.0,,7.7,534.0,305,285.0,965.0,588.0,,Málaga-Costa del Sol,137.0,49.8,31.0,7.0,,1.507,No,,3.248
-98,Vigo,Pontevedra,Galicia,292374.0,16.4,9.5,591.0,340,306.0,1144.0,678.0,,Vigo,8.0,13.5,26.0,7.0,,1.814,No,415.0,3.031
-99,Vitoria-Gasteiz,Álava,País Vasco,253672.0,49.6,10.9,364.0,222,191.0,527.0,328.0,375.0,Vitoria,3.0,12.0,26.0,1.0,,2.515,No,450.0,2.147
-100,Zaragoza,Zaragoza,Aragón,673010.0,20.0,8.9,319.0,204,87.0,308.0,188.0,112.0,Zaragoza,16.0,13.1,33.0,3.0,,1.714,Sí,438.0,2.602
+0,A Coruña,A Coruña,Galicia,244700.0,20.4,9.1,593.0,337,272.0,1084.0,,,A Coruña,9.0,11.6,24.0,7.0,,23,Sí,410.0,2453
+1,Albacete,Albacete,Castilla-La Mancha,172357.0,24.4,7.1,260.0,154,97.0,545.0,322.0,325.0,Alacant-Elx Miguel Hernández,119.0,169.0,33.0,0.0,,1417,No,369.0,3282
+2,Alcalá de Guadaíra,Sevilla,Andalucía,75917.0,,6.6,531.0,309,209.0,995.0,590.0,,Sevilla,70.0,21.1,35.0,5.0,,1277,No,397.0,3526
+3,Alcalá de Henares,Madrid,Madrid,196888.0,28.0,9.9,40.0,39,,586.0,330.0,200.0,Adolfo Suárez Madrid-Barajas,174.0,21.0,33.0,1.0,,1654,Sí,396.0,2691
+4,Alcobendas,Madrid,Madrid,117041.0,53.8,12.0,24.0,25,,613.0,347.0,229.0,Adolfo Suárez Madrid-Barajas,174.0,9.1,33.0,0.0,,3084,No,408.0,2691
+5,Alcorcón,Madrid,Madrid,170296.0,17.6,10.8,15.0,34,,631.0,363.0,189.0,Adolfo Suárez Madrid-Barajas,174.0,29.5,33.0,0.0,,1761,No,398.0,2691
+6,Algeciras,Cádiz,Andalucía,122368.0,,7.1,662.0,380,340.0,1106.0,,,Jerez,16.0,107.0,28.0,11.0,,1168,No,401.0,3316
+7,Alicante,Alicante,Comunidad Valenciana,338577.0,39.3,9.4,427.0,242,145.0,525.0,318.0,,Alacant-Elx Miguel Hernández,119.0,11.1,31.0,7.0,841152.0,1705,No,423.0,3397
+8,Almería,Almería,Andalucía,199237.0,40.2,7.6,551.0,315,605.0,803.0,475.0,,Almería,19.0,8.6,30.0,8.0,,1302,No,387.0,3305
+9,Arona,Santa Cruz de Tenerife,Santa Cruz de Tenerife,82982.0,,13.7,2029.0,2520,,2504.0,,,Tenerife Sur,102.0,18.9,25.0,13.0,,1771,No,,3098
+10,Avilés,Asturias,Asturias,75877.0,9.9,6.8,481.0,281,,893.0,529.0,,Asturias,24.0,14.5,22.0,7.0,,1274,No,395.0,1962
+11,Badajoz,Badajoz,Extremadura,150146.0,,6.7,404.0,224,268.0,1021.0,593.0,,Sevilla,70.0,217.0,35.0,3.0,,1374,No,423.0,3224
+12,Badalona,Barcelona,Cataluña,223506.0,0.9,12.8,633.0,381,182.0,10.0,,,Josep TarradellasBarcelona-El Prat,170.0,24.7,29.0,5.0,,2247,No,429.0,2453
+13,Barakaldo,Bizkaia,País Vasco,100535.0,16.0,11.3,408.0,243,294.0,612.0,351.0,580.0,Bilbao,46.0,16.0,24.0,6.0,,1731,No,423.0,1694
+14,Barcelona,Barcelona,Cataluña,1636193.0,14.1,18.4,623.0,375,165.0,0.0,,,Josep TarradellasBarcelona-El Prat,170.0,12.6,28.0,5.0,8200000.0,4063,Sí,429.0,2453
+15,Bilbao,Bizkaia,País Vasco,344127.0,9.8,13.3,401.0,239,268.0,605.0,344.0,610.0,Bilbao,46.0,12.1,24.0,5.0,1100000.0,3174,No,442.0,1694
+16,Burgos,Burgos,Castilla y León,173483.0,34.6,7.9,248.0,157,144.0,602.0,346.0,288.0,Vitoria,3.0,122.0,27.0,-1.0,,1642,Sí,476.0,2751
+17,Cáceres,Cáceres,Extremadura,95456.0,53.4,6.3,297.0,170,183.0,914.0,531.0,689.0,Sevilla,70.0,269.0,34.0,1.0,,122,Sí,406.0,3365
+18,Cádiz,Cádiz,Andalucía,113066.0,,10.5,647.0,359,272.0,1109.0,649.0,,Jerez,16.0,42.3,29.0,8.0,,2548,No,394.0,3316
+19,Cartagena,Murcia,Murcia,216961.0,20.7,6.7,453.0,257,277.0,626.0,369.0,570.0,Región de Murcia,15.0,32.1,29.0,6.0,,1472,No,395.0,3348
+20,Castelló de la Plana,Castellón,Comunidad Valenciana,171857.0,50.0,7.1,460.0,257,209.0,278.0,176.0,140.0,Castelló,11.0,33.1,28.0,7.0,,1214,No,443.0,3321
+21,Ceuta,Ceuta,Ceuta,83117.0,1.2,7.5,704.0,514,,1171.0,800.0,,Jerez,16.0,149.0,27.0,11.0,,2204,No,396.0,2808
+22,Chiclana de la Frontera,Cádiz,Andalucía,87493.0,12.9,8.6,656.0,367,317.0,1118.0,658.0,,Jerez,16.0,52.6,29.0,8.0,479477.0,138,No,,3316
+23,Córdoba,Córdoba,Andalucía,319515.0,41.6,7.0,396.0,232,112.0,860.0,503.0,292.0,Sevilla,70.0,137.0,36.0,4.0,929781.0,1441,Sí,399.0,3316
+24,Cornellà de Llobregat,Barcelona,Cataluña,89039.0,47.2,13.7,616.0,360,173.0,17.0,,,Josep TarradellasBarcelona-El Prat,170.0,8.4,29.0,5.0,,1629,No,,2453
+25,Coslada,Madrid,Madrid,80596.0,13.6,10.6,16.0,25,,606.0,346.0,175.0,Adolfo Suárez Madrid-Barajas,174.0,6.7,33.0,1.0,,1765,No,389.0,2691
+26,Dos Hermanas,Sevilla,Andalucía,137561.0,,7.7,544.0,303,211.0,1000.0,589.0,684.0,Sevilla,70.0,20.4,35.0,5.0,,1462,No,383.0,3526
+27,El Ejido,Almería,Andalucía,87500.0,,6.2,552.0,314,520.0,830.0,495.0,668.0,Almería,19.0,51.1,30.0,9.0,,1212,No,391.0,3305
+28,El Puerto de Santa María,Cádiz,Andalucía,89435.0,100.6,9.5,638.0,363,247.0,1100.0,652.0,,Jerez,16.0,28.7,30.0,7.0,,1485,No,,3316
+29,Elche,Alicante,Comunidad Valenciana,235580.0,11.0,6.5,423.0,238,191.0,529.0,316.0,510.0,Alacant-Elx Miguel Hernández,119.0,19.2,31.0,6.0,,1364,Sí,421.0,3397
+30,Fuengirola,Málaga,Andalucía,83226.0,5.4,11.5,558.0,316,233.0,1025.0,606.0,,Málaga-Costa del Sol,137.0,25.4,29.0,9.0,,2285,No,,3248
+31,Fuenlabrada,Madrid,Madrid,189891.0,9.5,9.9,25.0,28,,638.0,363.0,181.0,Adolfo Suárez Madrid-Barajas,174.0,34.3,33.0,0.0,,1594,No,399.0,2691
+32,Gandia,Valencia,Comunidad Valenciana,75911.0,14.5,6.9,436.0,251,242.0,429.0,257.0,345.0,València,89.0,76.9,30.0,7.0,,1505,No,436.0,2808
+33,Getafe,Madrid,Madrid,183219.0,40.4,11.1,16.0,24,,630.0,358.0,176.0,Adolfo Suárez Madrid-Barajas,174.0,25.9,33.0,0.0,,2084,No,396.0,2691
+34,Getxo,Bizkaia,País Vasco,76365.0,41.9,12.5,415.0,245,287.0,619.0,354.0,539.0,Bilbao,46.0,18.8,24.0,6.0,,4205,Sí,432.0,1694
+35,Gijón,Asturias,Asturias,267706.0,22.4,8.5,466.0,265,355.0,869.0,508.0,,Asturias,24.0,41.8,23.0,7.0,,1622,No,362.0,1962
+36,Girona,Girona,Cataluña,102666.0,24.9,11.0,692.0,410,224.0,102.0,80.0,,Girona-Costa Brava,17.0,15.5,31.0,2.0,,2226,No,493.0,28
+37,Granada,Granada,Andalucía,228682.0,32.8,9.0,418.0,244,231.0,855.0,516.0,,Federico García Lorca-Granada,8.0,17.5,34.0,0.0,,1931,Sí,384.0,3228
+38,Guadalajara,Guadalajara,Castilla-La Mancha,87452.0,35.4,7.8,66.0,53,,560.0,315.0,218.0,Adolfo Suárez Madrid-Barajas,174.0,46.6,32.0,0.0,,1521,No,407.0,29
+39,Huelva,Huelva,Andalucía,141854.0,40.2,7.7,612.0,334,262.0,1087.0,646.0,,Sevilla,70.0,102.0,31.0,7.0,,1227,No,436.0,3527
+40,Jaén,Jaén,Andalucía,111669.0,,7.1,332.0,194,193.0,796.0,456.0,,Federico García Lorca-Granada,8.0,95.5,36.0,1.0,,1094,Sí,379.0,32890
+41,Jerez de la Frontera,Cádiz,Andalucía,212730.0,14.6,7.7,618.0,337,238.0,1080.0,639.0,702.0,Jerez,16.0,11.5,32.0,6.0,,1279,No,400.0,3316
+42,L'Hospitalet de Llobregat,Barcelona,Cataluña,265444.0,,14.5,620.0,368,170.0,6.0,,,Josep TarradellasBarcelona-El Prat,170.0,9.8,29.0,5.0,,262,No,404.0,2453
+43,Las Palmas de Gran Canaria,Las Palmas,Las Palmas,378797.0,6.6,11.1,1928.0,2220,,2546.0,,,Gran Canaria,127.0,25.2,27.0,16.0,,2119,No,379.0,28
+44,Las Rozas de Madrid,Madrid,Madrid,95725.0,16.4,12.6,20.0,23,,638.0,365.0,218.0,Adolfo Suárez Madrid-Barajas,174.0,30.4,33.0,0.0,,2655,No,,2691
+45,Leganés,Madrid,Madrid,186660.0,16.1,10.6,20.0,27,,630.0,363.0,179.0,Adolfo Suárez Madrid-Barajas,174.0,28.0,33.0,0.0,,2004,No,390.0,2691
+46,León,León,Castilla y León,120951.0,18.2,6.8,340.0,205,132.0,777.0,448.0,,Valladolid,6.0,129.0,27.0,0.0,,1318,Sí,443.0,2808
+47,Lleida,Lleida,Cataluña,140797.0,26.3,7.8,468.0,270,131.0,160.0,112.0,65.0,Reus,14.0,88.0,33.0,1.0,,1122,No,489.0,2808
+48,Logroño,La Rioja,La Rioja,150020.0,9.7,7.6,334.0,231,232.0,473.0,273.0,455.0,Vitoria,3.0,98.0,30.0,2.0,,1608,No,433.0,2708
+49,Lorca,Murcia,Murcia,97151.0,30.0,5.4,467.0,263,485.0,645.0,382.0,685.0,Región de Murcia,15.0,68.0,32.0,2.0,,123,No,376.0,3348
+50,Lugo,Lugo,Galicia,97211.0,14.4,6.3,500.0,292,293.0,991.0,592.0,,A Coruña,9.0,102.0,27.0,2.0,,123,Sí,411.0,2808
+51,Madrid,Madrid,Madrid,3280782.0,8.3,16.2,0.0,0,,623.0,367.0,150.0,Adolfo Suárez Madrid-Barajas,174.0,15.6,33.0,0.0,9900000.0,3935,Sí,377.0,2691
+52,Málaga,Málaga,Andalucía,579076.0,7.8,11.9,535.0,313,164.0,1002.0,604.0,692.0,Málaga-Costa del Sol,137.0,9.8,31.0,7.0,1500000.0,239,No,390.0,3248
+53,Manresa,Barcelona,Cataluña,77452.0,,7.5,576.0,333,251.0,58.0,,83.0,Josep TarradellasBarcelona-El Prat,170.0,64.6,31.0,1.0,,1514,No,494.0,2453
+54,Marbella,Málaga,Andalucía,150725.0,6.7,15.1,584.0,341,239.0,1051.0,622.0,,Málaga-Costa del Sol,137.0,52.2,29.0,9.0,742172.0,3645,No,432.0,3248
+55,Mataró,Barcelona,Cataluña,128956.0,11.6,10.6,651.0,390,205.0,31.0,,,Josep TarradellasBarcelona-El Prat,170.0,46.9,29.0,4.0,,1937,No,410.0,2453
+56,Melilla,Melilla,Melilla,85170.0,,9.7,665.0,691,,1084.0,,,Málaga-Costa del Sol,137.0,284.0,30.0,10.0,,1856,No,382.0,2808
+57,Mijas,Málaga,Andalucía,89502.0,6.7,11.2,558.0,317,272.0,1025.0,606.0,,Málaga-Costa del Sol,137.0,26.3,27.0,7.0,,2282,No,,3248
+58,Móstoles,Madrid,Madrid,208761.0,,9.9,22.0,28,,639.0,370.0,197.0,Adolfo Suárez Madrid-Barajas,174.0,35.1,33.0,0.0,,1495,No,403.0,2691
+59,Murcia,Murcia,Murcia,462979.0,19.6,7.6,405.0,224,218.0,583.0,341.0,585.0,Región de Murcia,15.0,27.1,33.0,4.0,,1166,Sí,381.0,3348
+60,Orihuela,Alicante,Comunidad Valenciana,80784.0,,7.9,428.0,244,257.0,561.0,335.0,605.0,Alacant-Elx Miguel Hernández,119.0,50.0,32.0,5.0,,1615,No,457.0,3397
+61,Ourense,Ourense,Galicia,103756.0,,6.5,499.0,282,165.0,1053.0,618.0,706.0,Vigo,8.0,89.0,29.0,5.0,,1458,No,420.0,28
+62,Oviedo,Asturias,Asturias,215167.0,,8.3,448.0,257,325.0,886.0,520.0,,Asturias,24.0,46.7,23.0,5.0,,1636,Sí,383.0,1962
+63,Palencia,Palencia,Castilla y León,76302.0,21.6,6.5,260.0,159,87.0,688.0,400.0,281.0,Valladolid,6.0,58.4,29.0,0.0,,1278,No,412.0,2808
+64,Palma,Illes Balears,Illes Balears,415940.0,27.6,13.7,704.0,750,,276.0,507.0,476.0,Palma de Mallorca,125.0,9.3,31.0,5.0,2400000.0,3531,No,360.0,3098
+65,Pamplona,Navarra,Navarra,203418.0,33.0,10.1,396.0,250,223.0,480.0,280.0,260.0,Vitoria,3.0,102.0,28.0,0.0,,2539,No,425.0,2285
+66,Parla,Madrid,Madrid,130577.0,7.7,9.1,26.0,32,,638.0,367.0,,Adolfo Suárez Madrid-Barajas,174.0,35.9,33.0,0.0,,1536,No,,2691
+67,Pontevedra,Pontevedra,Galicia,82828.0,6.5,7.4,614.0,353,274.0,1167.0,690.0,,Vigo,8.0,30.4,26.0,7.0,,186,No,450.0,3031
+68,Pozuelo de Alarcón,Madrid,Madrid,87728.0,19.4,12.9,15.0,21,,633.0,361.0,197.0,Adolfo Suárez Madrid-Barajas,174.0,25.6,33.0,0.0,,342,No,,2691
+69,Reus,Tarragona,Cataluña,106741.0,18.7,7.9,545.0,321,234.0,108.0,80.0,98.0,Reus,14.0,4.3,29.0,3.0,,1676,No,439.0,282
+70,Rivas-Vaciamadrid,Madrid,Madrid,96690.0,,9.8,19.0,26,,615.0,349.0,217.0,Adolfo Suárez Madrid-Barajas,174.0,19.8,34.0,1.0,,2361,No,403.0,2691
+71,Roquetas de Mar,Almería,Andalucía,102881.0,,7.0,564.0,326,685.0,816.0,487.0,,Almería,19.0,37.1,30.0,9.0,,1497,No,,3305
+72,Rubí,Barcelona,Cataluña,79007.0,,11.4,611.0,362,228.0,24.0,,80.0,Josep TarradellasBarcelona-El Prat,170.0,28.8,29.0,2.0,,1787,No,417.0,2453
+73,Sabadell,Barcelona,Cataluña,215760.0,78.8,10.6,623.0,371,195.0,26.0,,,Josep TarradellasBarcelona-El Prat,170.0,38.0,29.0,2.0,,1916,No,474.0,2453
+74,Salamanca,Salamanca,Castilla y León,142412.0,31.5,8.6,214.0,136,100.0,832.0,488.0,679.0,Valladolid,6.0,127.0,30.0,0.0,701422.0,1752,Sí,470.0,3262
+75,San Cristóbal de La Laguna,Santa Cruz de Tenerife,Santa Cruz de Tenerife,157815.0,2.7,8.0,1960.0,2520,,2434.0,,,Tenerife Norte-La Laguna,24.0,3.3,24.0,12.0,,1869,Sí,,3098
+76,San Fernando,Cádiz,Andalucía,94120.0,21.2,7.7,649.0,239,261.0,1111.0,653.0,,Jerez,16.0,45.3,29.0,8.0,,1543,No,397.0,3316
+77,San Sebastián,Gipuzkoa,País Vasco,187849.0,37.4,15.7,457.0,273,344.0,565.0,340.0,515.0,Bilbao,46.0,99.0,25.0,6.0,,5191,No,437.0,1906
+78,San Sebastián de los Reyes,Madrid,Madrid,91083.0,33.7,11.7,30.0,31,,612.0,348.0,224.0,Adolfo Suárez Madrid-Barajas,174.0,10.5,33.0,0.0,,2347,No,,2691
+79,Sant Boi de Llobregat,Barcelona,Cataluña,83371.0,,11.3,618.0,364,190.0,16.0,,,Josep TarradellasBarcelona-El Prat,170.0,10.1,29.0,5.0,,1787,No,,2453
+80,Sant Cugat del Vallès,Barcelona,Cataluña,95725.0,52.0,14.2,614.0,368,222.0,19.0,,,Josep TarradellasBarcelona-El Prat,170.0,25.6,29.0,3.0,,3513,No,445.0,2453
+81,Santa Coloma de Gramenet,Barcelona,Cataluña,117981.0,2.5,12.5,627.0,370,190.0,9.0,,,Josep TarradellasBarcelona-El Prat,170.0,23.2,29.0,4.0,,2155,No,475.0,2453
+82,Santa Cruz de Tenerife,Santa Cruz de Tenerife,Santa Cruz de Tenerife,208688.0,3.3,9.6,1950.0,2460,,2425.0,,,Tenerife Norte-La Laguna,24.0,12.0,28.0,15.0,,1716,No,367.0,3098
+83,Santander,Cantabria,Cantabria,171693.0,19.2,9.3,455.0,259,353.0,703.0,410.0,585.0,Seve Ballesteros-Santander,23.0,5.6,23.0,6.0,,1998,No,431.0,1639
+84,Santiago de Compostela,A Coruña,Galicia,98179.0,,8.2,600.0,337,202.0,1085.0,,,Santiago-Rosalía de Castro,33.0,14.2,25.0,5.0,926153.0,2268,Sí,430.0,2453
+85,Sevilla,Sevilla,Andalucía,681998.0,27.6,10.6,530.0,302,162.0,994.0,598.0,666.0,Sevilla,70.0,8.8,36.0,6.0,3000000.0,2151,No,439.0,3526
+86,Talavera de la Reina,Toledo,Castilla-La Mancha,83247.0,12.0,5.8,123.0,78,80.0,741.0,428.0,589.0,Adolfo Suárez Madrid-Barajas,174.0,139.0,35.0,2.0,,1286,Sí,409.0,2815
+87,Tarragona,Tarragona,Cataluña,134883.0,,9.2,552.0,321,256.0,98.0,74.0,75.0,Reus,14.0,10.9,29.0,5.0,,1828,Sí,426.0,282
+88,Telde,Las Palmas,Las Palmas,102472.0,,8.2,1945.0,2220,,2563.0,,,Gran Canaria,127.0,10.9,26.0,15.0,,1334,No,389.0,2808
+89,Terrassa,Barcelona,Cataluña,224114.0,8.3,10.2,620.0,360,206.0,28.0,,,Josep TarradellasBarcelona-El Prat,170.0,34.8,29.0,1.0,,2091,No,472.0,2453
+90,Toledo,Toledo,Castilla-La Mancha,85085.0,36.4,7.9,75.0,56,,686.0,397.0,225.0,Adolfo Suárez Madrid-Barajas,174.0,84.0,34.0,1.0,593970.0,1422,Sí,402.0,2815
+91,Torrejón de Ardoz,Madrid,Madrid,134733.0,11.7,10.4,32.0,34,,594.0,337.0,188.0,Adolfo Suárez Madrid-Barajas,174.0,12.9,33.0,1.0,,2165,No,397.0,2691
+92,Torrente,Valencia,Comunidad Valenciana,85142.0,11.7,8.1,352.0,228,137.0,365.0,221.0,204.0,València,89.0,11.6,31.0,6.0,,1618,No,426.0,2808
+93,Torrevieja,Alicante,Comunidad Valenciana,83547.0,,8.8,460.0,265,293.0,571.0,341.0,630.0,Alacant-Elx Miguel Hernández,119.0,43.9,29.0,6.0,,1763,No,394.0,3397
+94,Valdemoro,Madrid,Madrid,79100.0,1.3,9.3,30.0,29,,636.0,,202.0,Adolfo Suárez Madrid-Barajas,174.0,35.3,33.0,0.0,,1693,No,392.0,2691
+95,València,Valencia,Comunidad Valenciana,792492.0,20.4,11.3,356.0,230,,348.0,214.0,,València,89.0,10.3,30.0,6.0,2060000.0,2122,Sí,398.0,2808
+96,Valladolid,Valladolid,Castilla y León,295639.0,36.2,7.4,191.0,145,65.0,724.0,426.0,,Valladolid,6.0,14.3,30.0,1.0,,1578,No,433.0,3016
+97,Vélez-Málaga,Málaga,Andalucía,83899.0,,7.7,534.0,305,285.0,965.0,588.0,,Málaga-Costa del Sol,137.0,49.8,31.0,7.0,,1507,No,,3248
+98,Vigo,Pontevedra,Galicia,292374.0,16.4,9.5,591.0,340,306.0,1144.0,678.0,,Vigo,8.0,13.5,26.0,7.0,,1814,No,415.0,3031
+99,Vitoria-Gasteiz,Álava,País Vasco,253672.0,49.6,10.9,364.0,222,191.0,527.0,328.0,375.0,Vitoria,3.0,12.0,26.0,1.0,,2515,No,450.0,2147
+100,Zaragoza,Zaragoza,Aragón,673010.0,20.0,8.9,319.0,204,87.0,308.0,188.0,112.0,Zaragoza,16.0,13.1,33.0,3.0,,1714,Sí,438.0,2602
